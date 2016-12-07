@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/lukemarsh/hq.png?label=ready&title=Ready)](https://waffle.io/lukemarsh/hq)
 <div align="center">
   <!-- Build Status -->
   <a href="https://travis-ci.org/lukemarsh/hq">
